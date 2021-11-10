@@ -7,14 +7,9 @@
  * @module adapter-ckfinder/uploadadapter
  */
 
-import { Plugin } from 'ckeditor5/src/core';
-
-export default class CKFinderUploadAdapter extends Plugin {
+export default class CKFinderUploadAdapter {
 	/**
 	 * Foo.
-	 *
-	 * @inheritDoc
-	 * @override
 	 */
 	foo() {
 		return 'foo';
