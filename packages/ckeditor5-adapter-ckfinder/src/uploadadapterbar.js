@@ -9,9 +9,6 @@
 
 import CKFinderUploadAdapter from './uploadadapter';
 
-/**
- * @extends module:adapter-ckfinder/uploadadapter~CKFinderUploadAdapter
- */
 export default class CKFinderUploadAdapterBar extends CKFinderUploadAdapter {
 	/**
 	 * Bar.
